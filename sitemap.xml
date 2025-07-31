@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://www.hotelbhagyalaxmi.com/</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.hotelbhagyalaxmi.com/images/hotel-exterior.jpg</image:loc>
+      <image:title> Hotel Bhagyalaxmi Hotel Exterior</image:title>
+      <image:caption>Luxury hotel in Abu Road, Rajasthan with traditional architecture</image:caption>
+    </image:image>
+  </url>
+
+  <!-- About Page -->
+  <url>
+    <loc>https://www.hotelbhagyalaxmi.com/about.html</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.hotelbhagyalaxmi.com/images/hotel-history.jpg</image:loc>
+      <image:title> Hotel Bhagyalaxmi Hotel History</image:title>
+      <image:caption>40 years of hospitality excellence since 1985</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Rooms Page -->
+  <url>
+    <loc>https://www.hotelbhagyalaxmi.com/rooms.html</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.hotelbhagyalaxmi.com/images/deluxe-room.jpg</image:loc>
+      <image:title>Deluxe Room</image:title>
+      <image:caption>Luxury deluxe room with modern amenities</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.hotelbhagyalaxmi.com/images/premium-suite.jpg</image:loc>
+      <image:title>Premium Suite</image:title>
+      <image:caption>Spacious premium suite with separate living area</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.hotelbhagyalaxmi.com/images/royal-suite.jpg</image:loc>
+      <image:title>Royal Suite</image:title>
+      <image:caption>Opulent royal suite with panoramic views</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Dining Page -->
+  <url>
+    <loc>https://www.hotelbhagyalaxmi.com/dining.html</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.hotelbhagyalaxmi.com/images/restaurant-interior.jpg</image:loc>
+      <image:title>The Royal Spice Restaurant</image:title>
+      <image:caption>Elegant restaurant serving authentic Punjabi and Rajasthani cuisine</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Events Page -->
+  <url>
+    <loc>https://www.hotelbhagyalaxmi.com/events.html</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.hotelbhagyalaxmi.com/images/wedding-venue.jpg</image:loc>
+      <image:title>Wedding Venue</image:title>
+      <image:caption>Beautiful wedding venue with traditional decorations</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.hotelbhagyalaxmi.com/images/banquet-hall.jpg</image:loc>
+      <image:title>Grand Banquet Hall</image:title>
+      <image:caption>Spacious banquet hall for events and celebrations</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Gallery Page -->
+  <url>
+    <loc>https://www.hotelbhagyalaxmi.com/gallery.html</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.hotelbhagyalaxmi.com/images/hotel-lobby.jpg</image:loc>
+      <image:title>Hotel Lobby</image:title>
+      <image:caption>Elegant hotel lobby with traditional decor</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.hotelbhagyalaxmi.com/images/swimming-pool.jpg</image:loc>
+      <image:title>Swimming Pool</image:title>
+      <image:caption>Luxury swimming pool with lounging area</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Contact Page -->
+  <url>
+    <loc>https://www.hotelbhagyalaxmi.com/contact.html</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Reservations Page -->
+  <url>
+    <loc>https://www.hotelbhagyalaxmi.com/reservations.html</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Legal Pages -->
+  <url>
+    <loc>https://www.hotelbhagyalaxmi.com/terms.html</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://www.hotelbhagyalaxmi.com/privacy-policy.html</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://www.hotelbhagyalaxmi.com/cookie-policy.html</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+</urlset>
