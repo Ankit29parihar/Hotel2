@@ -37,7 +37,8 @@ ErrorDocument 500 /500.html
     Header set Referrer-Policy "strict-origin-when-cross-origin"
     
     # Content Security Policy (adjust as needed)
-    Header set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' cdn.tailwindcss.com cdnjs.cloudflare.com; style-src 'self' 'unsafe-inline' fonts.googleapis.com cdn.tailwindcss.com cdnjs.cloudflare.com; font-src 'self' fonts.gstatic.com; img-src 'self' data: readdy.ai public.readdy.ai; connect-src 'self';"
+    Header set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' cdn.tailwindcss.com cdnjs.cloudflare.com; style-src 'self' 'unsafe-inline' fonts.googleapis.com cdn.tailwindcss.com cdnjs.cloudflare.com; font-src 'self' fonts.gstatic.com; img-src 'self' data: readdy.ai public.readdy.ai; connect-src 'self'; frame-src 'self' https://www.google.com https://www.google.com/maps; child-src 'self' https://www.google.com;"
+
 </IfModule>
 
 # Compression

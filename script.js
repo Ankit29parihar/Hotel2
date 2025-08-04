@@ -396,7 +396,7 @@ eventCardAnimation();
 
 // Show/hide button on scrolltop button
 
-const header = document.querySelector("header");
+const header = document.querySelector("#header");
 let headerAnimated = false;
 
 window.addEventListener("scroll", () => {
